@@ -1,0 +1,125 @@
+p{
+    background-color: aquamarine;
+    font-size: 30px;
+}
+.Moods {
+    background-color:blueviolet;
+    font-size: 35px;
+    border-radius: 20px;
+}
+#Favorite-hobbies {
+    background-color:rgb(200, 40, 40);
+    font-size:30px;
+}
+.Favorite-websites {
+    background-color:rgb(208, 52, 180);
+    font-size:30px;
+}
+.highlight{
+    background-color:rgb(36, 171, 115);
+    font-size:23px;
+    border: 7px solid rgb(98, 12, 106);
+    text-align: center;
+    padding: 5px;
+    margin: 10px 0 0 0;
+    border-radius: 30px;
+}
+#Main-heading {
+    background-color:rgb(25, 25, 126);
+    font-size: 35px;
+}
+#about-me {
+    background-color:rgb(42, 42, 115);
+    font-size: 35px;
+}
+#course-info {
+    background-color:rgb(15, 107, 134);
+    font-size: 25px;
+    border-radius: 15px;
+}
+.header-section {
+    background-color:rgb(27, 68, 79);
+    font-size:25px;
+    padding: 20px;
+    margin: 0 10px 5px 10px;   
+     border: 10px solid  rgb(98, 12, 106);
+     border-radius: 30px;
+}
+.main-section {
+    background-color:rgb(175, 204, 101);
+    font-size:25px;
+    padding:10px;
+    margin: 5px 5px 5px 5px;
+    border: double 5px rgb(98, 12, 106);
+    border-radius: 50px;
+}
+
+.footer-section {
+    background-color:rgb(168, 81, 150);
+    font-size:25px;
+    padding: 10px;
+    border: dotted 10px rgb(98, 12, 106);
+    border-radius: 20px;
+}
+.image-section {
+    text-align: center;
+    
+}
+.image-section img {
+    width:400px;
+    height: auto;
+    border-radius: 40px;
+    border: 10px solid rgb(211, 175, 57);
+}
+
+.position-container {
+    position: relative;
+    height: 200px;
+    margin-bottom: 10px;
+}
+.box {
+    width: 50px;
+    height: 50px;
+    margin: 20px;
+}
+.static-box {
+    position: static;
+    background-color: lightblue;
+}
+.relative-box {
+    position: relative;
+    background-color: lightgreen;
+    top: 20px;
+    left: 20px;
+}
+.absolute-box {
+    position: absolute;
+    background-color: lightcoral;
+    top: 20px;
+    right: 20px;
+}
+.qwerty {
+    background-color: rgb(255, 255, 0);
+    font-size: 20px;
+}
+.float-container {
+    overflow: auto;
+}
+.box {  
+    margin: 10px;
+}
+.left-box {
+    float: left;
+    background-color: rgb(107, 21, 101);
+    height: 20px;
+    width: 20px;
+}
+.right-box {
+    float: right;
+    background-color: rgb(64, 181, 41);
+    height: 20px;
+    width: 20px;
+}
+.clear {
+    clear: both;
+}
