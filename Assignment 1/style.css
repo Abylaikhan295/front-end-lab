@@ -1,11 +1,14 @@
 p{
     background-color: aquamarine;
     font-size: 30px;
+    padding: 30px;
+    border-radius: 30px;
+    text-align: center;
 }
 .Moods {
     background-color:blueviolet;
     font-size: 35px;
-    border-radius: 20px;
+    border-radius: 30px;
 }
 #Favorite-hobbies {
     background-color:rgb(200, 40, 40);
@@ -21,7 +24,7 @@ p{
     border: 7px solid rgb(98, 12, 106);
     text-align: center;
     padding: 5px;
-    margin: 10px 0 0 0;
+    margin: 20px 0 0 0;
     border-radius: 30px;
 }
 #Main-heading {
@@ -56,10 +59,11 @@ p{
 
 .footer-section {
     background-color:rgb(168, 81, 150);
-    font-size:25px;
+    font-size:350px;
     padding: 10px;
     border: dotted 10px rgb(98, 12, 106);
     border-radius: 20px;
+
 }
 .image-section {
     text-align: center;
