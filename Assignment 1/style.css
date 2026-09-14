@@ -72,7 +72,7 @@ p{
     
 }
 .image-section img {
-    width:400px;
+    width:70%;
     height: auto;
     border-radius: 40px;
     border: 10px solid rgb(211, 175, 57);
@@ -128,4 +128,10 @@ p{
 }
 .clear {
     clear: both;
+}
+h1 {
+    font-size: 2.5rem;
+}
+h2 {
+    font-size: 1.5em;
 }
