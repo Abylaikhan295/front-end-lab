@@ -27,7 +27,8 @@ Group: IT-2502
 2) Tables and Forms Implementation:
 
    Task description: Creating a structured table and an interactive user input form.
-   <img width="390" height="122" alt="image" src="https://github.com/user-attachments/assets/441f0a76-935b-4689-a8f9-ebd70507220e" />
+   <img width="404" height="217" alt="image" src="https://github.com/user-attachments/assets/3c20d02c-425d-459f-9eb2-d844f36bc210" />
+
    <img width="349" height="256" alt="image" src="https://github.com/user-attachments/assets/c3cc4c67-ef5c-4c67-b86b-367d767d2cf1" />
 
 
